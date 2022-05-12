@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sayemfarhad001
-- 👀 I’m interested in creating a high end game and developing anime
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on interesting projects
+- 👋 Hi, I’m Sayem
+- 👀 I’m interested in creating a wide range of apps and high end game and developing anime
+- 🌱 I’m currently helping startup company build their interactive and dynamic website
+- 💞️ I’m looking forward to collaborate and work on interesting ideas or internship in an eshtablished company   
 - 📫 How to reach me : sayemfarhad001@gmail.com
 
 <!---
